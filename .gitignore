@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Pyre type checker
+.pyre/
+lib/
+*/.DS_Store
+tf_hub_modules/
